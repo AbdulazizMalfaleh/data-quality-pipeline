@@ -1,0 +1,14 @@
+[
+  {
+    "mode": "FULL",
+    "rows": 500000,
+    "execution_time": 18.2,
+    "cost": 0.03
+  },
+  {
+    "mode": "CDC",
+    "rows": 8000,
+    "execution_time": 1.1,
+    "cost": 0.002
+  }
+]
